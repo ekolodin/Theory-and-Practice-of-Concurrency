@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/egor/CLionProjects/OptimisticListWithTestAndTAS/main.cpp
+limits
+-
+mutex
+-
+thread
+-
+iostream
+-
+cassert
+-
+utility
+-
+

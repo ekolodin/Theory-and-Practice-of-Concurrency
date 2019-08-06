@@ -1,0 +1,3 @@
+/Users/egor/CLionProjects/LockFreeStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/egor/CLionProjects/LockFreeStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/egor/CLionProjects/LockFreeStack/cmake-build-debug/CMakeFiles/LockFreeStack.dir
